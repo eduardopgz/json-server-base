@@ -7,5 +7,21 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "animals": [
+    {
+      "name": "Gorila",
+      "Kingdom": "Animalia"
+    }
+  ],
+  "cars": [
+    {
+      "brand": "Toyota",
+      "model": "Corola"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Yaris"
+    }
   ]
 }
